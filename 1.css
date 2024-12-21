@@ -1,0 +1,33 @@
+.hed
+{
+text-align: center;
+}
+.men{
+display: flex;
+
+}
+.d1{
+border: double rgb(0, 136, 255);
+width: 200px;
+height: 450px;
+padding-inline: 20px;
+margin: 30px;
+margin-top: 10px;}
+ .img1{
+border: 30px;
+border-radius: 50%;
+height:100px;
+width: 100px;text-align: center;
+
+}
+.img2{
+height: 100px;
+width: 50px;
+display:flexbox;
+padding-top: 10px;
+}
+.najm{
+height: 20px ;
+width: 20px;
+display: flexbox;
+}
